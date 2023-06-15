@@ -1,2 +1,2 @@
 # datascience_ecosystem
-A simple example a Jupytor notebook
+A simple example is a Jupyter notebook
